@@ -2,7 +2,7 @@
 
 - [x] [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 - [ ] [Inventing on Principle - Bret Victor](https://www.youtube.com/watch?v=PUv66718DII)
-- [ ] [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
+- [x] [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 - [x] [Constraints Liberate, Liberties Constrain - Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
 - [x] [Boundaries - Gary Bernhardt](https://www.destroyallsoftware.com/talks/boundaries)
 - [ ] [The Birth & Death of Javascript - Gary Bernhardt](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
@@ -23,4 +23,4 @@
 - [ ] [Why Leaders Eat Last - Simon Sinek](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [ ] [Patterns of Play - Linda Liukas](https://www.youtube.com/watch?v=vbboehbgAN8)
 - [ ] [Patterns of Effective Delivery - Dan North](https://vimeo.com/43659070)
-- [ ] [It was never going to work, so let's have some tea - James Mickens](https://vimeo.com/146524997)
+- [x] [It was never going to work, so let's have some tea - James Mickens](https://vimeo.com/146524997)
