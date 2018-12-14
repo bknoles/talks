@@ -28,3 +28,4 @@
 - [x] [Controlling Complexity in Swift: Making Value Types Friends](https://academy.realm.io/posts/andy-matuschak-controlling-complexity/])
 - [x] [FIXME by DHH](https://www.youtube.com/watch?v=zKyv-IGvgGE)
 - [x] [Are We There Yet? - Rich Hickey](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
+- [ ] [Building Generic Software - Chris Salzberg](https://www.youtube.com/watch?v=RZkemV_-__A)
