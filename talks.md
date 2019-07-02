@@ -29,3 +29,4 @@
 - [x] [FIXME by DHH](https://www.youtube.com/watch?v=zKyv-IGvgGE)
 - [x] [Are We There Yet? - Rich Hickey](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 - [ ] [Building Generic Software - Chris Salzberg](https://www.youtube.com/watch?v=RZkemV_-__A)
+- [ ] [React: Rethinking best practices - Pete Hunt](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
