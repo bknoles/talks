@@ -33,7 +33,7 @@
 - [x] ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 - [ ] [Ruby Conf 12 - Boundaries by Gary Bernhardt](https://www.youtube.com/watch?v=yTkzNHF6rMs)
 - [ ] [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
-- [ ] [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- [x] [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 - [ ] [Integrated Tests Are a Scam - J.B. Rainsberger](https://vimeo.com/80533536)
 - [ ] [Nothing is Something - Sandi Metz](https://www.youtube.com/watch?v=29MAL8pJImQ)
 - [ ] [Functional is Cool, but do you know OO - Sandro Mancuso](https://www.youtube.com/watch?v=oiFYPAel-KY)
