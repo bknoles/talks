@@ -33,3 +33,11 @@
 - [x] ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 - [ ] [Ruby Conf 12 - Boundaries by Gary Bernhardt](https://www.youtube.com/watch?v=yTkzNHF6rMs)
 - [ ] [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
+- [ ] [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- [ ] [Integrated Tests Are a Scam - J.B. Rainsberger](https://vimeo.com/80533536)
+- [ ] [Nothing is Something - Sandi Metz](https://www.youtube.com/watch?v=29MAL8pJImQ)
+- [ ] [Functional is Cool, but do you know OO - Sandro Mancuso](https://www.youtube.com/watch?v=oiFYPAel-KY)
+- [ ] [Are there any Questions - Dylan Beattie, NDC Oslo 2017](https://www.youtube.com/watch?v=o6aLNvlQaGo)
+- [ ] [Deliver Results, Not Just Releases: Control & Observability in CD - Dave Karow GOTO 2019](https://www.youtube.com/watch?v=s4l0iwa0XHw)
+- [ ] [Architecture: The Stuff That's Hard to Change - Dylan Beattie NDC Oslo 2019](https://www.youtube.com/watch?v=3LtQWxhqjqI)
+- [ ] 
