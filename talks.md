@@ -40,3 +40,4 @@
 - [ ] [Are there any Questions - Dylan Beattie, NDC Oslo 2017](https://www.youtube.com/watch?v=o6aLNvlQaGo)
 - [ ] [Deliver Results, Not Just Releases: Control & Observability in CD - Dave Karow GOTO 2019](https://www.youtube.com/watch?v=s4l0iwa0XHw)
 - [ ] [Architecture: The Stuff That's Hard to Change - Dylan Beattie NDC Oslo 2019](https://www.youtube.com/watch?v=3LtQWxhqjqI)
+- [x] [Kenneth Stanley: Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.youtube.com/watch?v=dXQPL9GooyI) (a personal favorite)
