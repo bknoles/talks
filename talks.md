@@ -40,4 +40,4 @@
 - [ ] [Deliver Results, Not Just Releases: Control & Observability in CD - Dave Karow GOTO 2019](https://www.youtube.com/watch?v=s4l0iwa0XHw)
 - [ ] [Architecture: The Stuff That's Hard to Change - Dylan Beattie NDC Oslo 2019](https://www.youtube.com/watch?v=3LtQWxhqjqI)
 - [x] [Kenneth Stanley: Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.youtube.com/watch?v=dXQPL9GooyI) (a personal favorite)
-- [x] [Predictable Delivery](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit?pli=1#slide=id.p)
+- [x] [Predictable Delivery by Matthew Story](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit?pli=1#slide=id.p)
