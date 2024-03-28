@@ -19,7 +19,6 @@
 - [x] [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 - [ ] [Transactions: myths, surprises and opportunities - Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 - [ ] [The computer revolution hasnt happened yet - Alan Kay](https://www.youtube.com/watch?v=oKg1hTOQXoY)
-- [x] [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
 - [x] [Why Leaders Eat Last - Simon Sinek](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [ ] [Patterns of Play - Linda Liukas](https://www.youtube.com/watch?v=vbboehbgAN8)
 - [ ] [Patterns of Effective Delivery - Dan North](https://vimeo.com/43659070)
@@ -41,3 +40,4 @@
 - [ ] [Deliver Results, Not Just Releases: Control & Observability in CD - Dave Karow GOTO 2019](https://www.youtube.com/watch?v=s4l0iwa0XHw)
 - [ ] [Architecture: The Stuff That's Hard to Change - Dylan Beattie NDC Oslo 2019](https://www.youtube.com/watch?v=3LtQWxhqjqI)
 - [x] [Kenneth Stanley: Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.youtube.com/watch?v=dXQPL9GooyI) (a personal favorite)
+- [x] [Predictable Delivery](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit?pli=1#slide=id.p)
