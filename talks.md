@@ -43,3 +43,4 @@
 - [x] [Predictable Delivery by Matthew Story](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit?pli=1#slide=id.p)
 - [x] [RubyConf 2021 - Workshop: Fundamentals of Joint Cognitive Systems by Laura Maguire, John Allspaw](https://www.youtube.com/watch?v=VCWxonG84jo)
 - [x] [Children of the Magenta Line](https://www.youtube.com/watch?v=5ESJH1NLMLs) 
+- [x] [How To Plan and Execute Great Startup Marketing Programs - April Dunford](https://www.youtube.com/watch?v=FgwJbE1wIzk)
