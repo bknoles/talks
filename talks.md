@@ -44,3 +44,4 @@
 - [x] [RubyConf 2021 - Workshop: Fundamentals of Joint Cognitive Systems by Laura Maguire, John Allspaw](https://www.youtube.com/watch?v=VCWxonG84jo)
 - [x] [Children of the Magenta Line](https://www.youtube.com/watch?v=5ESJH1NLMLs) 
 - [x] [How To Plan and Execute Great Startup Marketing Programs - April Dunford](https://www.youtube.com/watch?v=FgwJbE1wIzk)
+- [x] [How To Craft a Story That Sells - April Dunford](https://www.youtube.com/watch?v=1DxQddmWqzQ)
