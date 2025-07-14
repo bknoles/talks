@@ -41,7 +41,7 @@
 - [ ] [Architecture: The Stuff That's Hard to Change - Dylan Beattie NDC Oslo 2019](https://www.youtube.com/watch?v=3LtQWxhqjqI)
 - [x] [Kenneth Stanley: Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.youtube.com/watch?v=dXQPL9GooyI) (a personal favorite)
 - [x] [Predictable Delivery by Matthew Story](https://docs.google.com/presentation/d/1weEU1G-4JAhD6tRlYinYS1ZOHI_SAUQkvTBFBzi67G0/edit?pli=1#slide=id.p)
-- [x] [RubyConf 2021 - Workshop: Fundamentals of Joint Cognitive Systems by Laura Maguire, John Allspaw](https://www.youtube.com/watch?v=VCWxonG84jo)
+- [x] [RubyConf 2021 - Workshop: Fundamentals of Joint Cognitive Systems by Laura Maguire, John Allspaw]([https://www.youtube.com/watch?v=VCWxonG84jo](https://www.youtube.com/watch?v=jOmMJ0HJUOg)
 - [x] [Children of the Magenta Line](https://www.youtube.com/watch?v=5ESJH1NLMLs) 
 - [x] [How To Plan and Execute Great Startup Marketing Programs - April Dunford](https://www.youtube.com/watch?v=FgwJbE1wIzk)
 - [x] [How To Craft a Story That Sells - April Dunford](https://www.youtube.com/watch?v=1DxQddmWqzQ)
